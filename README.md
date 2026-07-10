@@ -4,9 +4,9 @@
 
 I am learning GitHub.
 
-
-
-\## Git Practice
+## Git Practice
 
 Learning Git locally.
+
+## GitHub Desktop Practice
 
