@@ -10,5 +10,5 @@ Learning Git locally.
 
 ## GitHub Desktop Practice
 
-Learning GitHub Desktop
+Learning GitHub Desktop Practice
 
